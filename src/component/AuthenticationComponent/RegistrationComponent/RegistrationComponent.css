@@ -1,0 +1,4 @@
+.hero-section{
+    /* background-image: url("../../../src/assets/image/slider.jpg"); */
+    background: rgb(15,23,42);
+    background: linear-gradient(80deg, rgba(15,23,42,1) 0%, rgba(28,42,80,1) 35%);}
