@@ -1,5 +1,13 @@
 # React + Vite
 
+## This is music  application 
+## npm install
+## json-server --watch db.json --port 8000
+## user login & Registration 
+# search filter 
+# Recommended Music filter when show music details show to 7 music 
+# Music details
+# Tending Music filter using watch time 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
